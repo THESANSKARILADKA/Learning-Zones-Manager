@@ -1,4 +1,4 @@
-# HARUKA AYA BOY CLONE
+# LEARNING ZONES BOY
 
 ## Deploy
 
